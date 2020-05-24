@@ -1,0 +1,23 @@
+#txt{
+	background-color: #fefefe;
+	color:#000;
+	
+
+}
+#txt h3{
+	padding-top: 10px;
+}
+#txt p{
+	padding: 15px; 
+}
+.navbar-header h1{
+	margin: 10px;
+	padding: 10px;
+}
+#nav-list{
+	text-align: center;
+}
+.navbar-header button.navbar-toggle
+{
+
+
